@@ -1,0 +1,14 @@
+name: MusicSeerr
+website_url: https://musicseerr.com
+source_code_url: https://github.com/HabiRabbu/Musicseerr
+description: Music request and discovery app built around Lidarr. Search the MusicBrainz
+  catalogue, request albums, stream from Jellyfin/Navidrome/Plex or local files,
+  discover new music, and scrobble to ListenBrainz and Last.fm.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Media Streaming - Audio Streaming
+demo_url: https://musicseerr.com
